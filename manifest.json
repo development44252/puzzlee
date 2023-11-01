@@ -1,16 +1,16 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "Mind Escape",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "Mind Escape",
   "orientation": "any",
   "scope": "/",
   "short_name": "Method Draw Vector Editor",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
-    "productivity"
+    "games"
   ],
   "screenshots": [
     {
